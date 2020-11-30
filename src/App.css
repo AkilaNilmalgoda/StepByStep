@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+:root {
+    --primary-color : #072c3f; 
+}
+
+*{
+    width: 100%;
+    top: 0%;
+    font-family: 'Lato', sans-serif;
+    
+}

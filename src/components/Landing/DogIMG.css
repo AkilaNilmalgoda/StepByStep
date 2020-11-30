@@ -1,0 +1,12 @@
+.DogIMG-box>img{
+    height: 300px;
+    width: auto;
+    
+}
+
+.DogIMG-box{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

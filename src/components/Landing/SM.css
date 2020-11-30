@@ -1,0 +1,20 @@
+.main-SM{
+    padding: 50px;
+}
+
+.SM-icon{
+    max-width: 150px;
+}
+
+.SM-underline{
+    background-color: #0379b2;
+    height: 5px;
+}
+
+.SM-heading>h1{
+    text-align: center;
+}
+
+.SM-box{
+    padding-top: 50px;
+}

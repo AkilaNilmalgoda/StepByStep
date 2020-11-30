@@ -1,0 +1,93 @@
+.box-0{
+    height: 430px;
+    padding: 0;
+}
+
+.box-form{
+    background-color: transparent;
+    height: 400px;
+    padding: 0;
+    position: relative;
+}
+
+.main-container{
+    background: rgb(4,122,237);
+    background: radial-gradient(circle, rgba(4,122,237,1) 0%, rgba(7,44,63,1) 100%);
+}
+
+.form-box{
+    position: relative;
+    top: 10px;
+    height: 350px;
+    border-radius: 10px;
+    top: 100px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.form-box input[type='text'],
+.form-box input[type='email'] {
+    border: 0;
+    border-bottom:1px solid black;
+    width: 100%;
+    padding: 3px;
+    font-size: 15px;
+}
+
+.form-box input:focus {
+    outline: none;
+}
+
+/* .hero-logo-box{
+    position: sticky;
+    z-index: 1000;
+} */
+
+.hero-logo{
+    position: absolute;
+    top: 2%;
+    height: 400px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.hero-logo-image{
+    position: relative;
+    left: -150%;
+    transform: rotateZ(270deg) scale(4);
+    
+}
+
+.hero-words{
+    position: relative;
+    top: 10%;
+    color: black;
+}
+
+.hero-words>h6{
+    color: black;
+}
+
+.hero-words>h1{
+    color: white;
+}
+
+.hero-image{
+    
+    max-height: 250px;
+}
+
+.hero-il-image{
+    max-height: 250px;
+    width: 350px;
+    position: relative;
+
+    top: 50px;
+}
+
+.SM-underline-hero{
+    background-color: #0379b2;
+    height: 5px;
+    margin-bottom: 3%;
+}

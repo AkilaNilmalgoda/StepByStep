@@ -1,0 +1,67 @@
+.footer-container{
+    background-color:  black ;
+}
+
+.footerbox{
+    /* height: 300px; */
+    background-color:  black ;
+}
+
+.footerbox-1{
+    
+    /* height: 270px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.footerbox-2{
+    
+    /* height: 270px; */
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    color: white;
+
+}
+
+.footerbox-2>h4 {
+    text-align: center;
+}
+
+.link-box{
+    /* position: absolute; */
+  /* top: 50%; */
+  /* transform: translate(0, -50%); */
+}
+
+.footerbox-3{
+    color: white;
+}
+
+.footer-address{
+    display: flex;
+}
+
+.footer-fb{
+    font-size: 36px;
+    color: #3b5998;
+}
+
+.footer-ig{
+    font-size: 36px;
+    color: white;
+}
+
+.footer-wa{
+    font-size: 36px;
+    color: #25d366;
+}
+
+.footer-yt{
+    font-size: 36px;
+    color: red;
+}
+
