@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import RombusImg from '../../images/rombus.jpg';
 import './Inspire.css'
 import Dreams from '../../images/Dreams.png'
 
